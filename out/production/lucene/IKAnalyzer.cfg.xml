@@ -7,5 +7,5 @@
 	
 	<!--用户可以在这里配置自己的扩展停止词字典-->
 	<entry key="ext_stopwords">stopword.dic;</entry> 
-	
+	<!--我修改了-->
 </properties>
